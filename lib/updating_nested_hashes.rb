@@ -27,7 +27,8 @@ def update_status
   "alive"
     epic_tragedy[:montague][:hero]["status"] &&
     epic_tragedy[:capulet][:heroine]["status"] ==
-    "alive"
+    "dead"
+  end
 
 
 
